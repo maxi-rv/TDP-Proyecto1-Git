@@ -8,7 +8,6 @@ public class Principal
 		System.out.println();
 		
 		Persona p1 = new Persona("Osiris", 100);
-		Persona p2 = new Persona("Zeus", 101);
 		
 		System.out.println("Instancias de Persona Creadas.");
 		System.out.println();
